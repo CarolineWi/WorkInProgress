@@ -6,10 +6,14 @@ body {
   text-align: center;
   color: teal;
 }
-
 .col-sm {
   text-align: center;
 }
 .row {
   background-color: white;
 }
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
