@@ -1,0 +1,24 @@
+body {
+  padding-top: 5rem;
+}
+.title {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  color: teal;
+}
+.col-sm {
+  text-align: center;
+}
+.row {
+  background-color: white;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
