@@ -22,3 +22,19 @@ img {
   max-width: 100%;
   height: auto;
 }
+.row1 {
+  align-items: center;
+}
+.row2 {
+  align-items: center;
+}
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
