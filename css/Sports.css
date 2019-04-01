@@ -23,5 +23,6 @@ img {
   height: auto;
 }
 .carousel-item {
-  max-height: 80vh;
+  width:640px;
+  height:360px;
 }
