@@ -24,3 +24,7 @@ img {
   max-width: 100%;
   height: auto;
 }
+.title {
+  background-image: url("https://cdn.thecrazytourist.com/wp-content/uploads/2018/05/Pulteney-Bridge.jpg");
+  background-size: cover;
+}
