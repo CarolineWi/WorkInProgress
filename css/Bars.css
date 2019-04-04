@@ -4,7 +4,7 @@ body {
 .title {
   padding: 3rem 1.5rem;
   text-align: center;
-  color: teal;
+
 }
 .col-sm {
   text-align: center;
@@ -15,6 +15,7 @@ body {
 }
 h1 {
   text-align: center;
+  color: peru;
 }
 p {
   text-align: center;

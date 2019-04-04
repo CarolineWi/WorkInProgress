@@ -4,7 +4,7 @@ body {
 .title {
   padding: 3rem 1.5rem;
   text-align: center;
-  color: teal;
+  color: burlywood;
 }
 .col-sm {
   text-align: center;
@@ -17,7 +17,7 @@ h1 {
 }
 p {
   text-align: center;
-    color: teal;
+    font-weight: bold;
 }
 img {
   max-width: 100%;
